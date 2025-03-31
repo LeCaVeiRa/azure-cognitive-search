@@ -45,7 +45,3 @@ Podemos ir além e pesquisar pelas avaliações que possuem um tom negativo de a
 
 
 É interessante notar ainda as frases-chave (*keyphrases*) extraídas das avaliações. São sentenças, ou palavras chave, também obtido no processo de enriquecimento, que tentam extrair o máximo de significado do texto analisado. Apenas por meio delas é possível ter uma boa compreensão sobre o sentido geral da avaliação.
-
-
-## Conclusão e Insights
-Na era da informação, não basta apenas ter terabytes de dados sem ser capaz de analisá-los e extrair algo disso. É nesse contexto que as técnicas de Document Intelligence se destacam. Através dessas ferramentas é possível tornar úteis e valiosas as informações em massa que não poderiam ser analisadas individualmente por pessoas. A análise desses grandes conjuntos de dados podem revelar insights valiosos para empresas que os detém, o que faz dessa área muito proveitosa no presente contexto.
